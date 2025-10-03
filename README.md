@@ -9,5 +9,4 @@
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=LiteObject&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent)
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=LiteObject&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=LiteObject&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent&hide=markdown)
