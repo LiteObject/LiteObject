@@ -1,4 +1,4 @@
-## Welcome to my Github account ![Profile Views](https://komarev.com/ghpvc/?username=LiteObject&color=brightgreen) 
+## Welcome to my Github account ![Profile Views](https://komarev.com/ghpvc/?username=LiteObject&color=blue) 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LiteObject&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" height="180" />
